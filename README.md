@@ -3,6 +3,7 @@ Creating the db and schema:
 1. Log in to postgres.
 
 Run the below in your choice of folder:
+
 postgres# \i task2_schema.sql;
 
 inserting data:
