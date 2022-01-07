@@ -5,8 +5,8 @@ Creating the db and schema:
 
 2. Run the below in your choice of folder:
 
-postgres# \i task2_schema.sql;
+  postgres# \i task2_schema.sql;
 
 3. Inserting data:
 
-soundgood_db=# \i task2_insert_data.sql
+  soundgood_db=# \i task2_insert_data.sql
